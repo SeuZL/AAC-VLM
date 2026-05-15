@@ -286,4 +286,4 @@ swift eval \
 
 ## 🤝 Acknowledgements
 
-This work was supported by the “Southeast University – Jiangsu Provincial People’s Hospital Joint Open Organ-on-a-Chip Project” (2024-K01) and the “Jiangsu Provincial People’s Hospital Specialty Clinical Research Fund” (XB202404).
+This work was supported by the “ ” (2024-K01) and the “ ” (XB202404).
