@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 # ==== 配置参数 ====
 jsonl_file = "/root/zhangliang/Qwen2.5-VL/yanke/multi_label_data.jsonl"
 batch_size = 16
-num_epochs = 10
+num_epochs = 50
 lr = 1e-4
 image_size = 224
 device = torch.device("npu:0")
